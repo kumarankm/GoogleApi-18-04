@@ -1,0 +1,82 @@
+.search{
+    font-size: 30px;
+    color: white;
+}
+.back{
+     background-image: url(https://wallpaperaccess.com/full/1092594.jpg);
+     background-repeat: no-repeat;
+	 background-position: center;
+	 background-attachment: fixed;
+     background-size: auto;
+}
+
+.parent {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+
+  .im{
+    margin-left: 200px;
+    border-radius: 10px 80px 10px 80px;
+    margin-top: 10px;
+    margin-bottom: 90px;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.blo{
+    position: absolute;
+    top: -100px;
+    left: 550px; 
+}
+
+.tas{
+    position: absolute;
+    top: 100px;
+    left: 930px; 
+    font-size: 80px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    opacity: 0.8;
+}
+
+.tas1{
+    position: absolute;
+    top: 180px;
+    left: 930px; 
+    font-size: 80px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    opacity: 0.8;
+}
+
+.tas2{
+    position: absolute;
+    top: 300px;
+    left: 930px; 
+    font-size: 20px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    opacity: 0.8;
+}
+.tas3{
+    position: absolute;
+    top: 420px;
+    left: 930px; 
+    font-size: 20px;
+    color: rgb(47, 4, 58);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    opacity: 0.8;
+}
+
+.tas4{
+    position: absolute;
+    top: 320px;
+    left: 930px; 
+    font-size: 20px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    opacity: 0.8;
+}
